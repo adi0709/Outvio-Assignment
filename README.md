@@ -25,3 +25,8 @@ You can rely on your own experience as to what types of tests are added, but her
 # Deliverables
 
 - You need to return all project files with the added tests.
+
+# Tests
+
+- To execute the tests kindly execute
+  `yarn tests`
